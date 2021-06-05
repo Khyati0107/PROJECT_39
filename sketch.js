@@ -19,7 +19,7 @@ var gameOver, restart;
 function preload(){
   pathImg = loadImage("Road.png");
   
-  mainRacerImg1 = loadAnimation("/mainPlayer1.png","mainPlayer2.png");
+  mainRacerImg1 = loadAnimation("mainPlayer1.png","mainPlayer2.png");
  
   mainRacerImg2= loadAnimation("mainPlayer3.png");
 
